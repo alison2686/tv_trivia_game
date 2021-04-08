@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/tv_trivia_game/static/js/main.10990a64.chunk.js",
+    "main.js.map": "/tv_trivia_game/static/js/main.10990a64.chunk.js.map",
+    "runtime-main.js": "/tv_trivia_game/static/js/runtime-main.0984632e.js",
+    "runtime-main.js.map": "/tv_trivia_game/static/js/runtime-main.0984632e.js.map",
+    "static/js/2.254abbc7.chunk.js": "/tv_trivia_game/static/js/2.254abbc7.chunk.js",
+    "static/js/2.254abbc7.chunk.js.map": "/tv_trivia_game/static/js/2.254abbc7.chunk.js.map",
+    "index.html": "/tv_trivia_game/index.html",
+    "static/js/2.254abbc7.chunk.js.LICENSE.txt": "/tv_trivia_game/static/js/2.254abbc7.chunk.js.LICENSE.txt",
+    "static/media/blue_background.861c7b1e.jpg": "/tv_trivia_game/static/media/blue_background.861c7b1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0984632e.js",
+    "static/js/2.254abbc7.chunk.js",
+    "static/js/main.10990a64.chunk.js"
+  ]
+}
